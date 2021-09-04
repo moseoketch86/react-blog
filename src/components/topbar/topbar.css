@@ -8,12 +8,10 @@
   align-items: center;
   font-family: "Josefin Sans", sans-serif;
   justify-content: space-between;
+  z-index: 999;
 }
 .topCenter {
   width: 50%;
-}
-
-.topRight {
 }
 
 .topRight,
@@ -50,5 +48,5 @@
   margin-left: 150px;
 }
 .topIcon {
-  margin-left: 40px;
+  margin-left: 0px;
 }
