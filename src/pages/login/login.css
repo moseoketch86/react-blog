@@ -1,0 +1,48 @@
+.login {
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.5),
+      rgba(255, 255, 255, 0.5)
+    ),
+    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6ZYleAmz2Bd8zE_Ay6OJ-J_q4qqyWyhY2Q&usqp=CAU");
+  background-size: cover;
+  align-items: center;
+}
+.loginTitle {
+  font-size: 1.5rem;
+}
+.loginForm {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.loginForm > label {
+  margin: 10px 0;
+}
+.loginForm > input {
+  padding: 10px;
+  background-color: white;
+  border: none;
+}
+.loginButton {
+  margin-top: 20px;
+  cursor: pointer;
+  border: none;
+  background-color: lightcoral;
+  color: white;
+  padding: 10px;
+}
+.LoginRegisterButton {
+  position: absolute;
+  top: 60px;
+  right: 20px;
+  background-color: teal;
+  cursor: pointer;
+  border: none;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
