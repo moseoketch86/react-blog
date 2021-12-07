@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-blog.git/static/css/main.b010baea.chunk.css",
+    "main.js": "/react-blog.git/static/js/main.6c7b3195.chunk.js",
+    "main.js.map": "/react-blog.git/static/js/main.6c7b3195.chunk.js.map",
+    "runtime-main.js": "/react-blog.git/static/js/runtime-main.216e1d59.js",
+    "runtime-main.js.map": "/react-blog.git/static/js/runtime-main.216e1d59.js.map",
+    "static/js/2.5d5e812d.chunk.js": "/react-blog.git/static/js/2.5d5e812d.chunk.js",
+    "static/js/2.5d5e812d.chunk.js.map": "/react-blog.git/static/js/2.5d5e812d.chunk.js.map",
+    "index.html": "/react-blog.git/index.html",
+    "static/css/main.b010baea.chunk.css.map": "/react-blog.git/static/css/main.b010baea.chunk.css.map",
+    "static/js/2.5d5e812d.chunk.js.LICENSE.txt": "/react-blog.git/static/js/2.5d5e812d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.216e1d59.js",
+    "static/js/2.5d5e812d.chunk.js",
+    "static/css/main.b010baea.chunk.css",
+    "static/js/main.6c7b3195.chunk.js"
+  ]
+}
